@@ -6,4 +6,3 @@ __pycache__/
 *.key
 *.pem
 .vscode/
-.idea/
